@@ -80,11 +80,48 @@ There are two types of homework assignments: Problem Sets and a Lab Report.
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets (all together) | 25% |
-| Lab report | 25% |
-| Successfully building the Geiger counter | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets (all together)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab report
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Successfully building the Geiger counter
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tips for Success
 ----------------
@@ -100,10 +137,133 @@ Therefore, if you do the readings, the assignments should be relatively easy. If
 Calendar
 --------
 
-| SES # | READ BEFORE CLASSES | LECTURES | LABS | HOMEWORKS |
-| --- | --- | --- | --- | --- |
-| 1 | Radiation decay chains, half-life (42 pages) | Radiation basics; radiation energetics (2 hours) {{< br >}}{{< br >}} Geiger counter circuits (1 hour) {{< br >}}{{< br >}}  | Start building! (1 hour) | Write analysis script |
-| 2 | GC theory, dead time (16 pages) | Geiger tube theory, dead time (1 hour) | Build GC (3 hours) | &nbsp; |
-| 3 | Shielding, range, dose (15 pages) | Shielding and range; radiation protection (1 hour) | Build GC (3 hours) | Pset 1 due |
-| 4 | Error, uncertainty (21 pages) | _No lecture_ | Dose, shielding, background (4 hours) | Pset 2 due |
-| 5 | _No reading_ | _No lecture_ |  {{< br >}}{{< br >}} Finish Geiger counter lab (4 hours) {{< br >}}{{< br >}} As time allows, build a random number generator for cryptography {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Pset 3 due {{< br >}}{{< br >}} Lab report due 3 days later {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+READ BEFORE CLASSES
+{{< thclose >}}
+{{< thopen >}}
+LECTURES
+{{< thclose >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+HOMEWORKS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation decay chains, half-life (42 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation basics; radiation energetics (2 hours)
+
+Geiger counter circuits (1 hour)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Start building! (1 hour)
+{{< tdclose >}}
+{{< tdopen >}}
+Write analysis script
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+GC theory, dead time (16 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Geiger tube theory, dead time (1 hour)
+{{< tdclose >}}
+{{< tdopen >}}
+Build GC (3 hours)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Shielding, range, dose (15 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Shielding and range; radiation protection (1 hour)
+{{< tdclose >}}
+{{< tdopen >}}
+Build GC (3 hours)
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Error, uncertainty (21 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+_No lecture_
+{{< tdclose >}}
+{{< tdopen >}}
+Dose, shielding, background (4 hours)
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_No reading_
+{{< tdclose >}}
+{{< tdopen >}}
+_No lecture_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Finish Geiger counter lab (4 hours)
+
+As time allows, build a random number generator for cryptography
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pset 3 due
+
+Lab report due 3 days later
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

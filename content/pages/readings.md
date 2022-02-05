@@ -14,12 +14,100 @@ Assigned Readings
 
 These readings are to be completed before each day's class period.
 
-| SES # | TOPICS | ASSIGNED  READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Radioactive decay chains {{< br >}}{{< br >}} Half-life {{< br >}}{{< br >}} Geiger counter circuit theory {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[Turner\] "The Nucleus and Nuclear Radiation." Chapter 3, pp. 55–79. {{< br >}}{{< br >}} \[Turner\] "Activity" and "Exponential Decay." Sections 4.1 and 4.2,  pp. 83–85. {{< br >}}{{< br >}} Course notes: ["Geiger-Müller Counter Circuit Theory." (PDF)]({{< baseurl >}}/resources/mit22_s902iap15_geigr_ckt) (Courtesy of Mark Chilenski. Used with permission.) {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Ionization Chamber and Geiger Tube Theory {{< br >}}{{< br >}} Dead time {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[Turner\] "Methods of Radiation Detection." Chapter 10, pp. 241–52. {{< br >}}{{< br >}} \[Turner\] "Dead Time" and "Instrument Response." Section 11.12, pp. 339–42. {{< br >}}{{< br >}}  |
-| 3 | Shielding | \[Turner\] "Attenuation Coefficients." Section 8.7, pp. 187–96. |
-| 4 | Error and uncertainty | \[Turner\] "The Normal Distribution." Section 11.6, pp. 315–35 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNED  READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Radioactive decay chains
+
+Half-life
+
+Geiger counter circuit theory
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Turner\] "The Nucleus and Nuclear Radiation." Chapter 3, pp. 55–79.
+
+\[Turner\] "Activity" and "Exponential Decay." Sections 4.1 and 4.2,  pp. 83–85.
+
+Course notes: ["Geiger-Müller Counter Circuit Theory." (PDF)]({{< baseurl >}}/resources/mit22_s902iap15_geigr_ckt) (Courtesy of Mark Chilenski. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ionization Chamber and Geiger Tube Theory
+
+Dead time
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Turner\] "Methods of Radiation Detection." Chapter 10, pp. 241–52.
+
+\[Turner\] "Dead Time" and "Instrument Response." Section 11.12, pp. 339–42.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Shielding
+{{< tdclose >}}
+{{< tdopen >}}
+\[Turner\] "Attenuation Coefficients." Section 8.7, pp. 187–96.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Error and uncertainty
+{{< tdclose >}}
+{{< tdopen >}}
+\[Turner\] "The Normal Distribution." Section 11.6, pp. 315–35
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Background and Supplemental Readings
 ------------------------------------
