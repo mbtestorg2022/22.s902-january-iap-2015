@@ -17,7 +17,7 @@ The MIT students enrolled in this class were given a kit containing all the part
 
 *   Parts list (choice of two file formats): [Bill of Materials (XLS)]({{< baseurl >}}/resources/mit22_s902iap15_rev6bom), [Bill of Materials (PDF)]({{< baseurl >}}/resources/mit22_s902iap15_rev6bom-1) (Courtesy of Mark Chilenski. Used with permission.)
 *   [Instructions to build your Geiger-Müller Counter (PDF - 5.2MB)]({{< baseurl >}}/resources/mit22_s902iap15_gc_instruct) (Courtesy of Mark Chilenski. Used with permission.)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Geiger Counter schematic diagram (PDF - 1.1MB)]({{< baseurl >}}/resources/mit22_s902iap15_lab_shmatc) (Courtesy of Mark Chilenski. Used with permission.)
+*   [Geiger Counter schematic diagram (PDF - 1.1MB)]({{< baseurl >}}/resources/mit22_s902iap15_lab_shmatc) (Courtesy of Mark Chilenski. Used with permission.)
 
 A soldering iron is also required.
 
@@ -30,7 +30,7 @@ OCW cannot provide this parts kit to you directly, but we can offer tips on how 
 *   The SBM20 Geiger-Müller tube can be purchased on [eBay](http://www.ebay.com).
 *   Circuit board fabrication companies can make the board for you, using the specification in these [Gerber files (ZIP)]({{< baseurl >}}/resources/lab_gerber) (This ZIP file contains: 1 .gbl file, 1 .txt file, 1 .gbo file, 1 .gtl file, 1 .gts file, and 1 .gto file). One such company is [Advanced Circuits](http://www.4pcb.com/). Shop for student specials on a single or small number of boards. 
 *   The plastic case is a [Serpac 052C](http://www.serpac.com/052c.aspx), which can be ordered from electronics retailers like [DigiKey](http://www.digikey.com/product-detail/en/052C,BK/SR052-CB-ND/2206037).
-*   The case must have holes drilled in its sides, in order to let the beta particles through. While the MIT kit's case was custom machined on a CNC to produce letter-shaped holes, any shape holes in the middle of the sides will do. Refer to these mechanical drawings for guidance on the proper location of the holes: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[top-view drawing (PDF)]({{< baseurl >}}/resources/mit22_s902iap15_casetop) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[bottom-view drawing (PDF)]({{< baseurl >}}/resources/mit22_s902iap15_casebtm).
+*   The case must have holes drilled in its sides, in order to let the beta particles through. While the MIT kit's case was custom machined on a CNC to produce letter-shaped holes, any shape holes in the middle of the sides will do. Refer to these mechanical drawings for guidance on the proper location of the holes: [top-view drawing (PDF)]({{< baseurl >}}/resources/mit22_s902iap15_casetop) and [bottom-view drawing (PDF)]({{< baseurl >}}/resources/mit22_s902iap15_casebtm).
 
 **NOTE** (July 2015): If OCW users express sufficient interest, the MIT Department of Nuclear Science and Engineering might offer this kit for sale to the public. If you are interested, please let them know by completing this brief [web survey](https://survey.zohopublic.com/zs/JIiBBQ).
 
