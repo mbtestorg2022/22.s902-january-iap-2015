@@ -9,6 +9,7 @@ image_metadata:
   credit: Photo by Mike Short.
   image-alt: Photo of two students at a work table, one in the foreground preparing
     to solder a device into a circuit board.
+parent_uid: 0b9a6b9b-5bf6-bb2b-733c-8567fa220058
 resourcetype: Image
 title: 05_solder.jpg
 uid: 6b0abc6e-95be-bf78-f240-59838f49d34e

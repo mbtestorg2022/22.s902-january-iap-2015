@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2d14bffe-dd63-6c9b-d719-7e8d00556326
 resourcetype: Image
 title: 22-S902_classroom-2.jpg
 uid: 47cb11bb-de92-f269-e308-3ed72450d522

@@ -8,6 +8,7 @@ image_metadata:
   credit: Photo by Mike Short.
   image-alt: Photo of a classroom with 3 rectangular tables, 11 students seated around
     them, soldering and assembling electronics.
+parent_uid: 0b9a6b9b-5bf6-bb2b-733c-8567fa220058
 resourcetype: Image
 title: 03_lab.jpg
 uid: 2722c55e-6634-a9cc-994d-1b5be187ebb9

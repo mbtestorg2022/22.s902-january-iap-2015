@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2d14bffe-dd63-6c9b-d719-7e8d00556326
 resourcetype: Image
 title: 6-811_classroom-2.JPG
 uid: 057c486d-6fea-5af1-b4ad-b10008e93c53
